@@ -1,0 +1,45 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 19, 2016, 10:02:02 PM
+    Author     : chetan
+*/
+
+
+h1{
+    background-color: darkgray;
+     font-family: Trebuchet MS;
+      font-size: 28pt;
+}
+#box{
+    background-color:lightgray;
+    padding:10px;
+    font-family: Trebuchet MS;
+    font-size: 18pt;
+    
+}
+#main{
+    margin:40px;
+    
+     
+}
+#meaning{
+    color:midnightblue;
+}
+#queryResult{
+      background-color:aliceblue;
+}
+.pleaseEnter{
+    position:relative;
+    left:350px;
+    font-family: Trebuchet MS;
+    font-size: 28pt;
+    color:red;
+    font-weight: bold;
+}
+
+
+
